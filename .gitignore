@@ -1,3 +1,20 @@
+*.exe
+*.ipch
+*.pdb
+*.ilk
+*.pch
+*.obj
+*.log
+*.idb
+*.tlog
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+*.suo
+*.sdf
+
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
